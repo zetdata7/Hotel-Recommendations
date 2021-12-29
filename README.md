@@ -1,5 +1,5 @@
 # Hotel-Recommendations
-The current repository is the code of the project of Efthymios Zetos in the "Project In Data Science" course
+The current repository is the code of the project of Efthymios Zetos in the "Project In Data Science" course. Supervisor of this project is Dr Ioannis Partalas
 ### EDA Hotels
 Some preliminary Exploratory analysis in order to get familiar with the dataset provided
 ### Hotel Embeddings
