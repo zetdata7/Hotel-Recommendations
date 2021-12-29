@@ -12,6 +12,6 @@ First install streamlit with `pip install streamlit`. To start the demo just run
 
 **Python Version:** 3.7  
  
-**Platforms:** Jupiter Notebooks
+**Platforms:** Jupyter Notebook
 
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, gensim, streamlit, UMAP
